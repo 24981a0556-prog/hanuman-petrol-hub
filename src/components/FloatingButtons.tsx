@@ -5,7 +5,7 @@ const WHATSAPP_URL = "https://wa.me/919618882888?text=Hello%20I%20need%20fuel%20
 
 const buttons = [
   { href: "tel:9618882888", icon: Phone, label: "Call", bg: "bg-primary" },
-  { href: WHATSAPP_URL, icon: MessageCircle, label: "WhatsApp", bg: "bg-green-600" },
+  { href: WHATSAPP_URL, icon: MessageCircle, label: "WhatsApp", bg: "bg-[oklch(0.55_0.16_150)]" },
   { href: MAPS_URL, icon: MapPin, label: "Maps", bg: "bg-secondary" },
 ];
 

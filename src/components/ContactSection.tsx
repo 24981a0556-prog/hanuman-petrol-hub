@@ -38,7 +38,7 @@ export function ContactSection() {
                 <Clock size={20} />
               </div>
               <div className="inline-flex items-center gap-2 bg-primary/10 text-primary font-bold px-4 py-2 rounded-full text-sm">
-                <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
+                <span className="w-2 h-2 rounded-full animate-pulse" style={{ backgroundColor: "oklch(0.72 0.19 142)" }} />
                 {t("open24")}
               </div>
             </div>
