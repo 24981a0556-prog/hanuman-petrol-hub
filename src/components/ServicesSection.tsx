@@ -5,7 +5,7 @@ const services = [
   {
     key: "mobileTanker" as const,
     descKey: "mobileTankerDesc" as const,
-    image: "/images/petrol-tanker.jpeg",
+    image: "/images/cng-tanker.jpg",
   },
   {
     key: "petrolDiesel" as const,
