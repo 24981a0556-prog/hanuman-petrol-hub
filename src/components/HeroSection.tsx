@@ -1,7 +1,7 @@
 import { useLanguage } from "@/contexts/LanguageContext";
 import { Phone, MapPin } from "lucide-react";
 
-const MAPS_URL = "https://www.google.com/maps/search/?api=1&query=HANUMAN+PETROLEUMS+Gajuwaka";
+const MAPS_URL = "https://www.google.com/maps/search/?api=1&query=Hanuman+Petroleums+Gajuwaka+Visakhapatnam";
 
 export function HeroSection() {
   const { t } = useLanguage();
