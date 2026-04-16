@@ -39,6 +39,11 @@ const translations = {
     directions: "Directions",
     allRightsReserved: "All rights reserved.",
     trustBadges: "Why Choose Us",
+    whyChooseUsTitle: "Why Choose Us",
+    whyChooseUsDesc: "At Hanuman Petroleums, we are committed to delivering high-quality fuel with accuracy, safety, and customer satisfaction at the core. Located conveniently in Gajuwaka, we provide 24/7 service with quick refueling, well-maintained facilities, and friendly staff to ensure a smooth experience every time. Whether it's petrol, diesel, or CNG at our outlet, customers trust us for reliability, transparency, and consistent service they can depend on.",
+    bullet1: "24/7 Fuel Availability",
+    bullet2: "Accurate Dispensing & Quality Assurance",
+    bullet3: "Fast & Friendly Service",
   },
   hi: {
     home: "होम",
@@ -76,6 +81,11 @@ const translations = {
     directions: "दिशा",
     allRightsReserved: "सर्वाधिकार सुरक्षित।",
     trustBadges: "हमें क्यों चुनें",
+    whyChooseUsTitle: "हमें क्यों चुनें",
+    whyChooseUsDesc: "हनुमान पेट्रोलियम्स में, हम सटीकता, सुरक्षा और ग्राहक संतुष्टि के साथ उच्च गुणवत्ता वाला ईंधन प्रदान करने के लिए प्रतिबद्ध हैं। गजुवाका में सुविधाजनक स्थान पर स्थित, हम त्वरित ईंधन भरने, अच्छी तरह से रखरखाव की गई सुविधाओं और मित्रवत कर्मचारियों के साथ 24/7 सेवा प्रदान करते हैं। चाहे पेट्रोल हो, डीजल हो, या हमारे आउटलेट पर सीएनजी, ग्राहक विश्वसनीयता, पारदर्शिता और निरंतर सेवा के लिए हम पर भरोसा करते हैं।",
+    bullet1: "24/7 ईंधन उपलब्धता",
+    bullet2: "सटीक डिस्पेंसिंग और गुणवत्ता आश्वासन",
+    bullet3: "तेज़ और मैत्रीपूर्ण सेवा",
   },
 } as const;
 
