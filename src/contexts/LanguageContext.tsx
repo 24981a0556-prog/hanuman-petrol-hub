@@ -21,7 +21,7 @@ const translations = {
     tanker: "Mobile Tanker Services",
     tankerDesc: "Fuel delivery at your doorstep. Charges based on distance.",
     mobileTanker: "CNG",
-    mobileTankerDesc: "CNG fuel is available exclusively at our outlet. Customers can visit our station to avail safe and efficient CNG refueling services.",
+    mobileTankerDesc: "​CNG fuel is available exclusively at our outlet. Customers can visit our station to avail safe and efficient CNG refueling services.",
     petrolDiesel: "Petrol & Diesel",
     petrolDieselDesc: "High-quality petrol and diesel available with accurate dispensing and quick service.",
     bulkTransport: "Bulk Fuel Transport",
