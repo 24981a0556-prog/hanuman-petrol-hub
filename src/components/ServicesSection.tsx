@@ -101,13 +101,13 @@ export function ServicesSection() {
         </div>
 
         <h3 className="text-xl font-bold text-center text-foreground mb-6">
-          {t("trustBadges")}
+          {"​"}
         </h3>
         <div className="flex flex-wrap justify-center gap-4">
           {badges.map((b) => (
             <div
               key={b.key}
-              className="flex items-center gap-2 bg-primary/10 text-primary font-semibold px-5 py-3 rounded-full text-sm"
+              className="gap-2 bg-primary/10 text-primary font-semibold px-5 py-3 rounded-full text-sm flex items-center justify-start"
             >
               <b.icon size={18} />
               {t(b.key)}
